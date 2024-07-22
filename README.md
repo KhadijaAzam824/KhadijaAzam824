@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhadijaAzam824
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+ 
 
 
 <!---
